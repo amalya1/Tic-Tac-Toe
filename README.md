@@ -1,7 +1,7 @@
 
 
 
-This is a Tic-Tac-Toe Game. It uses Node.js as runtime and NestJS as
+This is a Tic-Tac-Toe Game. It uses Node.js as runtime and Express as
 main framework
 
 # Project Overview
